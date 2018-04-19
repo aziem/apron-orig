@@ -7,6 +7,9 @@
 NOTE: If you do not already have MLGMPIDL, you can use the apron-dist
 directory in SVN repository.
 
+# Kent Changes: reinstall.sh script reinstalls apron with opam. This is used for automating benchmarking.
+
+
 
 The developpers are using INTEL/linux machines. Look at README.windows and
 README.mac for additional specific informations.
